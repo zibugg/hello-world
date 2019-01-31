@@ -1,6 +1,7 @@
 /**
 
 This will be a radio
+(C) zibugg(2019)
 
 **/
 
